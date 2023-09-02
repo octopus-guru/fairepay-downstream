@@ -1,0 +1,7 @@
+boto3==1.28.39
+dnspython==2.2.1
+pymongo==4.5.0
+requests
+python-dotenv
+flake8
+black

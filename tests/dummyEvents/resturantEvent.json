@@ -1,0 +1,7 @@
+{
+    "Records": [
+        {
+            "body": "{\"Type\":\"Notification\",\"MessageId\":\"d5cffc19-2781-538c-939b-a1759204bfdb\",\"SequenceNumber\":\"10000000000000018000\",\"TopicArn\":\"arn:aws:sns:eu-west-1:555057627692:FairePay-Downstream.fifo\",\"Message\":\"{\\\"id\\\":{\\\"$oid\\\":\\\"64c61a6f350c8abc7b280fba\\\"},\\\"restaurant_id\\\":\\\"bfe7da14-5011-4834-8ccf-b4a074800750\\\",\\\"modified_at\\\":{\\\"$date\\\":\\\"2023-08-29T19:59:32.217Z\\\"}}\",\"Timestamp\":\"2023-09-02T04:00:05.718Z\",\"UnsubscribeURL\":\"https://sns.eu-west-1.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:eu-west-1:555057627692:FairePay-Downstream.fifo:c890fb35-f61f-4fd2-94f4-c0617aa0e620\",\"MessageAttributes\":{\"group\":{\"Type\":\"String\",\"Value\":\"restaurant\"}}}"
+        }
+    ]
+}
